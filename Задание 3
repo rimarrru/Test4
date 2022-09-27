@@ -1,0 +1,3 @@
+x = ["купил", "мужик", "шляпу"]
+for i in reversed(x):
+    print(i)
